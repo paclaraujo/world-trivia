@@ -1,10 +1,13 @@
 import React from 'react';
-import "./style.css"
+import Card from '../components/Card';
+import './style.css';
 
 const Home = () => {
   
   return (
-    <div></div>
+    <div>
+      <Card/>
+    </div>
   );
 }
 
