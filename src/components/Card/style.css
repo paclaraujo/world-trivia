@@ -5,13 +5,6 @@
   font-family: 'Amatic SC', cursive;
 }
 
-.card-title {
-  color: #40beb4;
-  font-size: 45px;
-  text-align: center;
-  width: 70%;
-}
-
 .box {
   align-items: center;
   background-color: rgba(255, 255, 255,0.95);
@@ -21,6 +14,29 @@
   flex-direction: column;
   justify-content: center;
   width: 50%;
+}
+
+.card-title {
+  color: #40beb4;
+  font-size: 45px;
+  width: 70%;
+  margin: 0;
+}
+
+.question {
+  display: flex;
+  align-items: center;
+  font-size: 31px;
+  margin: 1.5vh auto;
+  width: 70%;
+  height: 20%;
+}
+
+.answers-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
 }
 
 .contacts {
