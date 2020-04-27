@@ -1,0 +1,21 @@
+.answer-btn {
+  background-color: #40beb4;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 35px;
+  height: 9vh;
+  margin: 1vh 0;
+  outline: none;
+  width: 100%;
+}
+
+.answer-btn:hover {
+  background-color: #9ED4B2 ;
+}
+
+.shadow {
+  box-shadow: 4px 8px 6px -5px #777;
+	-moz-box-shadow: 4px 8px 6px -5px #777;
+	-webkit-box-shadow: 4px 8px 6px -5px #777;
+}
