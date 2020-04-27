@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Nile and the Amazon are the world’s two longest rivers. Which is the third longest?",
+      "answers": ["The Mekong", "The Volga", "The Yangtze", "The Mississippi"],
+      "correct_answer": "The Yangtze"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following was discovered 200 years ago this month",
+      "answers": ["The ruins of Pompeii", "Venus de Milo", "The Terracotta Army", "the Tomb of Cleopatra"],
+      "correct_answer": "Venus de Milo"
+    },
+    {
+      "id": 3,
+      "question": "Melbourne is the capital of which Australian state?",
+      "answers": ["New South Wales", "Tasmania", "Queensland", "Victoria"],
+      "correct_answer": "Victoria"
+    },
+    {
+      "id": 4,
+      "question": "On a visit to South America, you are in the “Triple Frontier” area. You are (pretty much) on the three-way border of Argentina, Brazil – and which other country?",
+      "answers": ["Chile", "Paraguay", "Uruguay", "Bolivia"],
+      "correct_answer": "Paraguay"
+    },
+    {
+      "id": 5,
+      "question": "Russia, Canada, China and the USA are the world's largest countries by land area. Which of these comes next?",
+      "answers": ["Brazil", "India", "Australia", "Kazakhstan"],
+      "correct_answer": "Brazil"
+    }
+  ] 
+}
