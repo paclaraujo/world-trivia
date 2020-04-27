@@ -5,6 +5,13 @@
   font-family: 'Amatic SC', cursive;
 }
 
+.card-title {
+  color: #40beb4;
+  font-size: 45px;
+  text-align: center;
+  width: 70%;
+}
+
 .box {
   align-items: center;
   background-color: rgba(255, 255, 255,0.95);
@@ -14,6 +21,11 @@
   flex-direction: column;
   justify-content: center;
   width: 50%;
+}
+
+.contacts {
+  color:  rgba(0,0,0,0.8);
+  font-size: 22px;
 }
 
 @media only screen and (max-width: 1124px) {
